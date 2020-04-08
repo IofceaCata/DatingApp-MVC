@@ -17,7 +17,7 @@ namespace MatrimonialProject.Repositories
         {
             _context = context;
         }
-        public List<Message> GetAllReceivedMessage(string userId)
+        List<Message> IMessage.GetAllReceivedMessage(string userId)
         {
             return _context.Message.Include(y => y.Sender).Where(x => x.ReceiverId == userId).ToList();
         }
