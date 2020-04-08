@@ -1,0 +1,384 @@
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.deps.json
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.runtimeconfig.json
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.runtimeconfig.dev.json
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.dll
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.csprojAssemblyReference.cache
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorAssemblyInfo.cache
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorAssemblyInfo.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.AssemblyInfoInputs.cache
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.AssemblyInfo.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.TagHelpers.input.cache
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.TagHelpers.output.cache
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorCoreGenerate.cache
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorTargetAssemblyInfo.cache
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorTargetAssemblyInfo.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.pdb
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.Views.dll
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.Views.pdb
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.Views.pdb
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.dll
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.pdb
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.csproj.CopyComplete
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\IndexAsync.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\SelectedUserProfile.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\SendMessage.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\SentMessages.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\ReceivedMessages.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\SearchCategory.cshtml.g.cs
+C:\Users\catal\Desktop\DatingApp5\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\_getUserData.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.deps.json
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.runtimeconfig.json
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.runtimeconfig.dev.json
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.dll
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.pdb
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.Views.dll
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.Views.pdb
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.csprojAssemblyReference.cache
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorAssemblyInfo.cache
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorAssemblyInfo.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.AssemblyInfoInputs.cache
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.AssemblyInfo.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.TagHelpers.input.cache
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.TagHelpers.output.cache
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorCoreGenerate.cache
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\IndexAsync.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\ReceivedMessages.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\SearchCategory.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\SelectedUserProfile.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\SendMessage.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\SentMessages.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\_getUserData.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorTargetAssemblyInfo.cache
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorTargetAssemblyInfo.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.Views.pdb
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.dll
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.pdb
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.csproj.CopyComplete
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\AdminPage.cshtml.g.cs
+C:\Users\catal\Desktop\New folder (5)\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\DatingAdvice.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.deps.json
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.runtimeconfig.json
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.runtimeconfig.dev.json
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.dll
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.pdb
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.Views.dll
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.Views.pdb
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.csprojAssemblyReference.cache
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.csproj.CoreCompileInputs.cache
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorAssemblyInfo.cache
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorAssemblyInfo.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.AssemblyInfoInputs.cache
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.AssemblyInfo.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.TagHelpers.input.cache
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.TagHelpers.output.cache
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorCoreGenerate.cache
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\AdminPage.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\DatingAdvice.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\IndexAsync.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\ReceivedMessages.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\SearchCategory.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\SelectedUserProfile.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\SendMessage.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\SentMessages.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\_getUserData.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorTargetAssemblyInfo.cache
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorTargetAssemblyInfo.cs
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.Views.pdb
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.dll
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.pdb
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.genruntimeconfig.cache
+C:\Users\catal\OneDrive\Desktop\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.csproj.CopyComplete
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.deps.json
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.runtimeconfig.json
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.runtimeconfig.dev.json
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.dll
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.pdb
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.Views.dll
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.Views.pdb
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.csprojAssemblyReference.cache
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.csproj.CoreCompileInputs.cache
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorAssemblyInfo.cache
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorAssemblyInfo.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.AssemblyInfoInputs.cache
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.AssemblyInfo.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.TagHelpers.input.cache
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.TagHelpers.output.cache
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorCoreGenerate.cache
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\AdminPage.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\DatingAdvice.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\IndexAsync.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\ReceivedMessages.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\SearchCategory.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\SelectedUserProfile.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\SendMessage.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\SentMessages.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\_getUserData.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorTargetAssemblyInfo.cache
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorTargetAssemblyInfo.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.Views.pdb
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.dll
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.pdb
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.genruntimeconfig.cache
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.csproj.CopyComplete
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.deps.json
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.runtimeconfig.json
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.runtimeconfig.dev.json
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.dll
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.pdb
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.Views.dll
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\bin\Debug\netcoreapp2.2\MatrimonialProject.Views.pdb
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.csprojAssemblyReference.cache
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.csproj.CoreCompileInputs.cache
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorAssemblyInfo.cache
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorAssemblyInfo.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.AssemblyInfoInputs.cache
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.AssemblyInfo.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.TagHelpers.input.cache
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.TagHelpers.output.cache
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorCoreGenerate.cache
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorTargetAssemblyInfo.cache
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.RazorTargetAssemblyInfo.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.Views.pdb
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.dll
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.pdb
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.genruntimeconfig.cache
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\MatrimonialProject.csproj.CopyComplete
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Message\ReceivedMessages.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Message\SentMessages.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Admin\AdminPage.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\User\IndexAsync.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\User\SearchCategory.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\User\SelectedUserProfile.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\User\SendMessage.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\User\_getUserData.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Advice\DatingAdvice.cshtml.g.cs
+C:\Users\catal\OneDrive\Desktop\WAD Project Backup - Copy - Copy\Backup1\MatrimonialProject\obj\Debug\netcoreapp2.2\Razor\Views\Privacy\Privacy.cshtml.g.cs
