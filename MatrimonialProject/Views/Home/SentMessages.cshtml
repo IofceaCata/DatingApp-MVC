@@ -1,0 +1,43 @@
+﻿@model IEnumerable<MatrimonialProject.ViewModels.MessageViewModel>
+
+@{
+    ViewData["Title"] = "SentMessages";
+}
+    <body style="background-color:#F4EEFF">
+        <h1>SentMessages</h1>
+
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Content)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Name)
+                    </th>
+
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Content)
+                        </td>
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        @*<td>
+
+
+
+                        </td>*@
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </body>
