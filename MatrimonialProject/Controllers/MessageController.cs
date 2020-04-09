@@ -1,19 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-using AutoMapper;
-using MatrimonialProject.Infrastructure;
-using MatrimonialProject.Models;
-using MatrimonialProject.ViewModels;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using MatrimonialProject.Models;
+using MatrimonialProject.Infrastructure;
+using Microsoft.AspNetCore.Identity;
+using AutoMapper;
+using MatrimonialProject.ViewModels;
 
 namespace MatrimonialProject.Controllers
 {
     public class MessageController : Controller
     {
-
+        private int _messageId = 1;
         private readonly IUnitOfWork _unitOfWork;
         private readonly UserManager<ApplicationUser> _userManager;
         private IMapper _mapper;
@@ -27,22 +28,66 @@ namespace MatrimonialProject.Controllers
             _profileImage = profileImage;
         }
 
+        public async Task<IActionResult> Index()
+        {
+            if (User.Identity.IsAuthenticated)
+            {
+                var user = await _userManager.GetUserAsync(User);
+                if (user.Gender == Gender.Female)
+                {
+                    var onlyMales = _unitOfWork.UserRepo.GetAllMales();
+                    var mappedUser = _mapper.Map<List<UserViewModel>>(onlyMales);
+                    return View(mappedUser);
+                }
+                else
+                {
+                    var onlyFemales = _unitOfWork.UserRepo.GetAllFemales();
+                    var mappedUser = _mapper.Map<List<UserViewModel>>(onlyFemales);
+                    return View(mappedUser);
+                }
+            }
+            else
+            {
+                var people = _unitOfWork.UserRepo.GetAll();
+                var mappedUser = _mapper.Map<List<UserViewModel>>(people);
+                return View(mappedUser);
+            }
+        }
+
+
+        public IActionResult SelectedUserProfile(string id)
+        {
+            var userFromRepo = _unitOfWork.UserRepo.GetById(id);
+            var mappedUser = _mapper.Map<UserViewModel>(userFromRepo);
+            return View(mappedUser);
+        }
+
+        public IActionResult SendMessage()
+        {
+            return View();
+        }
+        
+        
+
         [HttpPost]
         public IActionResult SendMessage(MessageViewModel messages)
         {
+            string messageId = _messageId.ToString();
+            _messageId++;
             string receiverId = TempData["recId"].ToString();
             string senderId = _userManager.GetUserId(User);
             var mappedMessage = _mapper.Map<Message>(messages);
-            mappedMessage.ReceiverId = senderId;
+            mappedMessage.ReceiverId = receiverId;
             mappedMessage.SenderId = senderId;
             _unitOfWork.Message.Insert(mappedMessage);
             _unitOfWork.Save();
             return View();
         }
 
+
         public IActionResult SentMessages()
         {
-            if (User.Identity.IsAuthenticated)
+            if(User.Identity.IsAuthenticated)
             {
                 var userId = _userManager.GetUserId(User);
                 var messages = _unitOfWork.Message.GetAllSentMessages(userId);
@@ -71,6 +116,46 @@ namespace MatrimonialProject.Controllers
                 return View();
             }
 
+        }
+
+        public IActionResult SearchCategory()
+        {
+            return View();
+        }
+
+        
+
+        [HttpPost]
+
+        public IActionResult SearchCategory(SearchViewModel vm)
+        {
+            if(vm.Selected == 0)
+            {
+                ViewBag.showResults = true;
+                var users = _unitOfWork.UserRepo.GetAgeUser(Convert.ToInt32(vm.Min), Convert.ToInt32(vm.Max));
+                vm.Users = _mapper.Map<List<UserViewModel>>(users);
+
+                return View(vm);
+            }
+            if (vm.Selected == 1)
+            {
+                ViewBag.showResults = true;
+                var users = _unitOfWork.UserRepo.UserBySalary(Convert.ToInt32(vm.Min), Convert.ToInt32(vm.Max));
+                vm.Users = _mapper.Map<List<UserViewModel>>(users);
+
+                return View(vm);
+            }
+            return View();
+
+        }
+
+
+        
+
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult Error()
+        {
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
 }

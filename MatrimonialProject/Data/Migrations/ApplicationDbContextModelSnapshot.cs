@@ -94,15 +94,20 @@ namespace MatrimonialProject.Data.Migrations
 
             modelBuilder.Entity("MatrimonialProject.Models.Message", b =>
                 {
-                    b.Property<string>("SenderId");
-
-                    b.Property<string>("ReceiverId");
+                    b.Property<string>("MessageId")
+                        .ValueGeneratedOnAdd();
 
                     b.Property<string>("Content");
 
-                    b.HasKey("SenderId", "ReceiverId");
+                    b.Property<string>("ReceiverId");
+
+                    b.Property<string>("SenderId");
+
+                    b.HasKey("MessageId");
 
                     b.HasIndex("ReceiverId");
+
+                    b.HasIndex("SenderId");
 
                     b.ToTable("Message");
                 });
