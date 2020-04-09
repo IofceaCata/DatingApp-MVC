@@ -18,9 +18,12 @@ namespace MatrimonialProject.Data
         public DbSet<Message> Message { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Message>().HasKey(sc => new { sc.SenderId, sc.ReceiverId });
+            //modelBuilder.Entity<Message>().HasKey(sc => new { sc.SenderId, sc.ReceiverId });
+
+            modelBuilder.Entity<Message>().HasKey(sc => sc.MessageId);
 
             modelBuilder.Entity<Message>()
+               
                 .HasOne(s => s.Sender)
                 .WithMany(m => m.SentMessage)
                 .HasForeignKey(k => k.SenderId)

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\WAD Project Backup - Copy - Copy - Copy\\Backup1\\MatrimonialProject\\MatrimonialProject.csproj": {}
+    "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W3\\MatrimonialProject\\MatrimonialProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\WAD Project Backup - Copy - Copy - Copy\\Backup1\\MatrimonialProject\\MatrimonialProject.csproj": {
+    "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W3\\MatrimonialProject\\MatrimonialProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\WAD Project Backup - Copy - Copy - Copy\\Backup1\\MatrimonialProject\\MatrimonialProject.csproj",
+        "projectUniqueName": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W3\\MatrimonialProject\\MatrimonialProject.csproj",
         "projectName": "MatrimonialProject",
-        "projectPath": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\WAD Project Backup - Copy - Copy - Copy\\Backup1\\MatrimonialProject\\MatrimonialProject.csproj",
+        "projectPath": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W3\\MatrimonialProject\\MatrimonialProject.csproj",
         "packagesPath": "C:\\Users\\catal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\WAD Project Backup - Copy - Copy - Copy\\Backup1\\MatrimonialProject\\obj\\",
+        "outputPath": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W3\\MatrimonialProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\catal\\AppData\\Roaming\\NuGet\\NuGet.Config",
