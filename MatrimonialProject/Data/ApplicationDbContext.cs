@@ -18,8 +18,6 @@ namespace MatrimonialProject.Data
         public DbSet<Message> Message { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            //modelBuilder.Entity<Message>().HasKey(sc => new { sc.SenderId, sc.ReceiverId });
-
             modelBuilder.Entity<Message>().HasKey(sc => sc.MessageId);
 
             modelBuilder.Entity<Message>()
@@ -39,6 +37,8 @@ namespace MatrimonialProject.Data
 
         }
         public DbSet<MatrimonialProject.ViewModels.UserViewModel> UserViewModel { get; set; }
-       // public DbSet<MatrimonialProject.ViewModels.UserViewModel> UserViewModel { get; set; }
+       
+        public DbSet<Description> Description { get; set; }
+        
     }
 }

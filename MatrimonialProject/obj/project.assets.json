@@ -4733,6 +4733,28 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "xunit.abstractions/2.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/xunit.abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/xunit.abstractions.dll": {}
+        }
+      },
+      "xunit.extensibility.core/2.4.1": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1",
+          "xunit.abstractions": "2.0.3"
+        },
+        "compile": {
+          "lib/netstandard1.1/xunit.core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.1/xunit.core.dll": {}
+        }
       }
     }
   },
@@ -8839,6 +8861,7 @@
       "path": "system.composition/1.0.31",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "system.composition.1.0.31.nupkg.sha512",
@@ -8851,6 +8874,7 @@
       "path": "system.composition.attributedmodel/1.0.31",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/System.Composition.AttributedModel.dll",
@@ -8880,6 +8904,7 @@
       "path": "system.composition.hosting/1.0.31",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/System.Composition.Hosting.dll",
@@ -8894,6 +8919,7 @@
       "path": "system.composition.runtime/1.0.31",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/System.Composition.Runtime.dll",
@@ -10075,6 +10101,7 @@
       "path": "system.linq.parallel/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -12974,6 +13001,41 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "xunit.abstractions/2.0.3": {
+      "sha512": "pot1I4YOxlWjIb5jmwvvQNbTrZ3lJQ+jUGkGjWE3hEFM0l5gOnBWS+H3qsex68s5cO52g+44vpGzhAt+42vwKg==",
+      "type": "package",
+      "path": "xunit.abstractions/2.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/xunit.abstractions.dll",
+        "lib/net35/xunit.abstractions.xml",
+        "lib/netstandard1.0/xunit.abstractions.dll",
+        "lib/netstandard1.0/xunit.abstractions.xml",
+        "lib/netstandard2.0/xunit.abstractions.dll",
+        "lib/netstandard2.0/xunit.abstractions.xml",
+        "xunit.abstractions.2.0.3.nupkg.sha512",
+        "xunit.abstractions.nuspec"
+      ]
+    },
+    "xunit.extensibility.core/2.4.1": {
+      "sha512": "yKZKm/8QNZnBnGZFD9SewkllHBiK0DThybQD/G4PiAmQjKtEZyHi6ET70QPU9KtSMJGRYS6Syk7EyR2EVDU4Kg==",
+      "type": "package",
+      "path": "xunit.extensibility.core/2.4.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net452/xunit.core.dll",
+        "lib/net452/xunit.core.dll.tdnet",
+        "lib/net452/xunit.core.xml",
+        "lib/net452/xunit.runner.tdnet.dll",
+        "lib/net452/xunit.runner.utility.net452.dll",
+        "lib/netstandard1.1/xunit.core.dll",
+        "lib/netstandard1.1/xunit.core.xml",
+        "xunit.extensibility.core.2.4.1.nupkg.sha512",
+        "xunit.extensibility.core.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -12982,7 +13044,8 @@
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.4"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.4",
+      "xunit.extensibility.core >= 2.4.1"
     ]
   },
   "packageFolders": {
@@ -12991,11 +13054,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W5\\MatrimonialProject\\MatrimonialProject.csproj",
+      "projectUniqueName": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W8\\MatrimonialProject\\MatrimonialProject.csproj",
       "projectName": "MatrimonialProject",
-      "projectPath": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W5\\MatrimonialProject\\MatrimonialProject.csproj",
+      "projectPath": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W8\\MatrimonialProject\\MatrimonialProject.csproj",
       "packagesPath": "C:\\Users\\catal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W5\\MatrimonialProject\\obj\\",
+      "outputPath": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W8\\MatrimonialProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\catal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -13046,6 +13109,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[2.2.4, )"
+          },
+          "xunit.extensibility.core": {
+            "target": "Package",
+            "version": "[2.4.1, )"
           }
         },
         "imports": [
@@ -13058,7 +13125,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
