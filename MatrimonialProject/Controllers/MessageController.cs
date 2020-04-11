@@ -28,31 +28,7 @@ namespace MatrimonialProject.Controllers
             _profileImage = profileImage;
         }
 
-        public async Task<IActionResult> Index()
-        {
-            if (User.Identity.IsAuthenticated)
-            {
-                var user = await _userManager.GetUserAsync(User);
-                if (user.Gender == Gender.Female)
-                {
-                    var onlyMales = _unitOfWork.UserRepo.GetAllMales();
-                    var mappedUser = _mapper.Map<List<UserViewModel>>(onlyMales);
-                    return View(mappedUser);
-                }
-                else
-                {
-                    var onlyFemales = _unitOfWork.UserRepo.GetAllFemales();
-                    var mappedUser = _mapper.Map<List<UserViewModel>>(onlyFemales);
-                    return View(mappedUser);
-                }
-            }
-            else
-            {
-                var people = _unitOfWork.UserRepo.GetAll();
-                var mappedUser = _mapper.Map<List<UserViewModel>>(people);
-                return View(mappedUser);
-            }
-        }
+        
 
 
         public IActionResult SelectedUserProfile(string id)

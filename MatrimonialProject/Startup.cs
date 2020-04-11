@@ -93,7 +93,7 @@ namespace MatrimonialProject
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Message}/{action=Index}/{id?}");
+                    template: "{controller=Index}/{action=Index}/{id?}");
             });
         }
     }
