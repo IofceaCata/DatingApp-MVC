@@ -7,10 +7,10 @@
     <body style="background-color:#F4EEFF">
         <form method="post">
             <div class="form-control">
-                <select asp-for="Selected" id="searchList" asp-items="@Html.GetEnumSelectList<SearchCategory>()">
+                <select asp-for="Selected" id="searchList" asp-items="@Html.GetEnumSelectList<SearchCategory>()" onchange = "searchFunction()">
                     <option value="-1">Select</option>
                 </select>
-                <input type="submit" value="Search" id="Submit" placeholder="Search" />
+                <input type="button" value="Search" id="Submit" placeholder="Search"  />
             </div>
             <div class="form-control">
                 <div id="TextBoxContainer">
@@ -31,53 +31,42 @@
         </form>
 
 
-
-
         @section scripts
-{
+        {
+            
             <script type="text/javascript">
-                $(function () {
-                    $("#searchList").change(function () {
+                function searchFunction() {
 
-                        if ($("searchList").val() == 0) {
-                            $("#TextBoxContainer").empty();
-                            var div = $("<div />");
-                            var value = "";
-                            var from = "Minimum Age";
-                            var to = "Maximum Age";
-                            var minTextBox = $("<input />").attr("type", "textbox").attr("name", "Min");
-                            var maxTextBox = $("<input />").attr("type", "textbox").attr("name", "Max");
-                            minTextBox.val(value);
-                            maxTextBox.val(value);
-                            div.append(from);
-                            div.append(minTextBox);
-                            div.append(to);
-                            div.append(maxTextBox);
-                            $("#TextBoxContainer").append(div);
+                    const selectItem = document.getElementById("searchList");
+                    const cInputVal = selectItem.options[selectItem.selectedIndex].value;
 
+                    console.log("sunt chemat");
+
+             
+                    document.getElementById("TextBoxContainer").innerHTML = "";
+                    let to = "";
+                    let from = "";
+                        if (cInputVal == 0) {
+                             from = "Minimum Age";
+                             to = "Maximum Age";
                         }
 
-                        else if ($("#searchList").val() == 1) {
-                            $("#TextBoxContainer").empty();
-                            var div = $("<div />");
-                            var value = "";
-                            var from = "Minimum Salary";
-                            var to = "Maximum Salary";
-                            var minTextBox = $("<input />").attr("type", "textbox").attr("name", "Min");
-                            var maxTextBox = $("<input />").attr("type", "textbox").attr("name", "Max");
-                            minTextBox.val(value);
-                            maxTextBox.val(value);
-                            div.append(from);
-                            div.append(minTextBox);
-                            div.append(to);
-                            div.append(maxTextBox);
-                            $("#TextBoxContainer").append(div);
-
+                        else if (cInputVal == 1) {
+                             from = "Minimum Salary";
+                             to = "Maximum Salary";
                         }
 
+                    console.log(to, from);
+                        let div = "<div>"
+                        let minTextBox = '<input name="Min" />'
+                        let maxTextBox = '<input name="Max" />'
+                        div += from + minTextBox + to + maxTextBox + "</div>"
 
-                    }
-                    }
+                        
+                        document.getElementById("TextBoxContainer").innerHTML = div;
+                            
+                
+                 };
             </script>
         }
     </body>
