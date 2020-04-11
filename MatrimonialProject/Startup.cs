@@ -45,6 +45,7 @@ namespace MatrimonialProject
             services.AddDefaultIdentity<IdentityUser>()
                 .AddDefaultUI(UIFramework.Bootstrap4)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+
             services.AddTransient<IUnitOfWork, UnitOfWork>();
             services.AddSingleton<IProfileImage, ProfileImageRepo>();
 

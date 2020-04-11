@@ -28,9 +28,6 @@ namespace MatrimonialProject.Controllers
             _profileImage = profileImage;
         }
 
-        
-
-
         public IActionResult SelectedUserProfile(string id)
         {
             var userFromRepo = _unitOfWork.UserRepo.GetById(id);
@@ -43,8 +40,6 @@ namespace MatrimonialProject.Controllers
             return View();
         }
         
-        
-
         [HttpPost]
         public IActionResult SendMessage(MessageViewModel messages)
         {
@@ -59,7 +54,6 @@ namespace MatrimonialProject.Controllers
             _unitOfWork.Save();
             return View();
         }
-
 
         public IActionResult SentMessages()
         {
@@ -93,38 +87,6 @@ namespace MatrimonialProject.Controllers
             }
 
         }
-
-        public IActionResult SearchCategory()
-        {
-            return View();
-        }
-
-        
-
-        [HttpPost]
-
-        public IActionResult SearchCategory(SearchViewModel vm)
-        {
-            if(vm.Selected == 0)
-            {
-                ViewBag.showResults = true;
-                var users = _unitOfWork.UserRepo.GetAgeUser(Convert.ToInt32(vm.Min), Convert.ToInt32(vm.Max));
-                vm.Users = _mapper.Map<List<UserViewModel>>(users);
-
-                return View(vm);
-            }
-            if (vm.Selected == 1)
-            {
-                ViewBag.showResults = true;
-                var users = _unitOfWork.UserRepo.UserBySalary(Convert.ToInt32(vm.Min), Convert.ToInt32(vm.Max));
-                vm.Users = _mapper.Map<List<UserViewModel>>(users);
-
-                return View(vm);
-            }
-            return View();
-
-        }
-
 
         
 
