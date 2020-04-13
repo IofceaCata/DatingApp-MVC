@@ -6,21 +6,6 @@
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="Data\Migrations\00000000000000_CreateIdentitySchema.cs" />
-    <Compile Remove="Data\Migrations\00000000000000_CreateIdentitySchema.Designer.cs" />
-    <Compile Remove="Data\Migrations\20200307145806_migration1.cs" />
-    <Compile Remove="Data\Migrations\20200307145806_migration1.Designer.cs" />
-    <Compile Remove="Data\Migrations\20200404163601_migration2.cs" />
-    <Compile Remove="Data\Migrations\20200404163601_migration2.Designer.cs" />
-    <Compile Remove="Data\Migrations\20200407180259_migration3.cs" />
-    <Compile Remove="Data\Migrations\20200407180259_migration3.Designer.cs" />
-    <Compile Remove="Data\Migrations\20200407181334_migration3.cs" />
-    <Compile Remove="Data\Migrations\20200407181334_migration3.Designer.cs" />
-    <Compile Remove="Data\Migrations\20200407183220_migration2.cs" />
-    <Compile Remove="Data\Migrations\20200407183220_migration2.Designer.cs" />
-  </ItemGroup>
-
 
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="9.0.0" />
@@ -32,7 +17,9 @@
 
 
   <ItemGroup>
-    <Folder Include="Data\Migrations\" />
+    <ProjectReference Include="..\Entities\Entities.csproj" />
+    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
+    <ProjectReference Include="..\Repository\Repository.csproj" />
   </ItemGroup>
 
 </Project>
