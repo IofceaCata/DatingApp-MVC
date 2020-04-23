@@ -1,0 +1,15 @@
+﻿
+@model MatrimonialProject.ViewModels.SearchViewModel
+
+
+@using (Html.BeginForm("SearchResult", "Search", FormMethod.Post))
+{
+    @Html.Label("Max age")
+    @Html.TextBoxFor(model => model.Max)
+    @Html.ValidationMessageFor(model => model.Max)
+
+    @Html.Label("Min age")
+    @Html.TextBoxFor(model => model.Min)
+    @Html.ValidationMessageFor(model => model.Min)
+    <button type="submit">Search</button>
+}
