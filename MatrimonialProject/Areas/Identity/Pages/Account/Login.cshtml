@@ -32,7 +32,7 @@
                     </div>
                 </div>
                 <div class="form-group">
-                    <button type="submit" class="btn btn-primary">Log in</button>
+                    <button type="submit" class="btn btn-primary" onclick="popUp()">Log in</button>
                 </div>
                 <div class="form-group">
                     <p>
@@ -76,6 +76,16 @@
         </section>
     </div>
 </div>
+
+@if (ViewBag.Message != null)
+{
+    <script type="text/javascript">  
+        function popUp() {
+            alert("login successful");
+        }
+    </script>
+}
+
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />

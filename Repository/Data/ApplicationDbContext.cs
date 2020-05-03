@@ -1,6 +1,13 @@
-﻿using MatrimonialProject.Models;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using MatrimonialProject.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using MatrimonialProject.ViewModels;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore.Migrations;
+//using System.Data.Entity;
 
 namespace MatrimonialProject.Data
 {
@@ -11,9 +18,16 @@ namespace MatrimonialProject.Data
         {
         }
 
+        //AspNetRoles
+        
         public DbSet<Message> Message { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+           // Roles.Add(new IdentityRole { Id = "1", Name = "Administrator", NormalizedName = "Admin" });
+           // Roles.Add(new IdentityRole { Id = "2", Name = "Client", NormalizedName = "Client" });
+            
+
+
             modelBuilder.Entity<Message>().HasKey(sc => sc.MessageId);
 
             modelBuilder.Entity<Message>()
@@ -37,4 +51,5 @@ namespace MatrimonialProject.Data
         public DbSet<Description> Description { get; set; }
         
     }
+   
 }

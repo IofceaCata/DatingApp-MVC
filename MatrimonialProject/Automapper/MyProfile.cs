@@ -16,6 +16,7 @@ namespace MatrimonialProject.Automapper
             CreateMap<ApplicationUser, UserViewModel>().ReverseMap();
             CreateMap<MessageViewModel, Message>();
             CreateMap<DescriptionViweModel, Description>();
+            CreateMap<Description, DescriptionViweModel>();
             CreateMap<Message, MessageViewModel>().ForMember(dest => dest.Name, opt => opt.MapFrom(src => src.Receiver.Name));
             CreateMap<Message, ReceivedMessageViewModel>().ForMember(dest => dest.Name, opt => opt.MapFrom(src => src.Sender.Name));
         }

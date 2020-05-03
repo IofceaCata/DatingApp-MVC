@@ -9,12 +9,15 @@
       "Repository/1.0.0": {
         "dependencies": {
           "Entities": "1.0.0",
-          "Infrastructure": "1.0.0"
+          "EntityFramework": "6.4.0",
+          "Infrastructure": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "2.2.0"
         },
         "runtime": {
           "Repository.dll": {}
         }
       },
+      "EntityFramework/6.4.0": {},
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
         "dependencies": {
           "Newtonsoft.Json": "11.0.2",
@@ -3251,6 +3254,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "EntityFramework/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7jDmcQ3jaN5G7ZJC7Ecq161zQBs/5LqRzBdZ/I4XfmSvOwteGgNjOi30kthFador4Qjo3qUU6iOB1H04GIXrpg==",
+      "path": "entityframework/6.4.0",
+      "hashPath": "entityframework.6.4.0.nupkg.sha512"
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",

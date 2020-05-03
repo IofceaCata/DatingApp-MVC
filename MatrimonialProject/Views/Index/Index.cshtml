@@ -22,11 +22,13 @@
                     <h4 class="card-title">@item.Name</h4>
                     <p class="card-text">@item.MaritialStatus</p>
                     @if (User.Identity.IsAuthenticated)
-                    { 
+                    {
                         <a asp-route-id="@item.Id" asp-action="SendMessage" asp-controller="Message" class="btn btn-primary">Send Message</a>
+
+                        <a asp-route-id="@item.Id" asp-action="ViewDescription" asp-controller="Description" class="btn btn-primary">View Description</a>
                     }
-                        <a asp-route-id="@item.Id" asp-action="SelectedUserProfile" asp-controller="Message" class="btn btn-primary">See Profile</a>
-                    </div>
+                    <a asp-route-id="@item.Id" asp-action="SelectedUserProfile" asp-controller="Message" class="btn btn-primary">See Profile</a>
+                </div>
             </div>
         </div>
     }

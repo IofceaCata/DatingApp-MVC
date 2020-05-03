@@ -4438,7 +4438,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
-          "Microsoft.AspNetCore.App": "2.2.0"
+          "Microsoft.AspNetCore.App": "2.2.0",
+          "Microsoft.NETCore.App": "2.2.0"
         },
         "compile": {
           "bin/placeholder/Entities.dll": {}
@@ -12174,11 +12175,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W10\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W17\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W10\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W17\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\catal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W10\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W17\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\catal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -12194,8 +12195,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W10\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W10\\Entities\\Entities.csproj"
+            "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W17\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W17\\Entities\\Entities.csproj"
             }
           }
         }
@@ -12210,10 +12211,8 @@
       "netcoreapp2.2": {
         "dependencies": {
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
-            "version": "[2.2.0, )",
-            "autoReferenced": true
+            "version": "[2.2.0, )"
           }
         },
         "imports": [

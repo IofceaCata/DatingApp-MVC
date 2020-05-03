@@ -10,17 +10,20 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
+using Repository.Services;
 
 namespace MatrimonialProject.Areas.Identity.Pages.Account
 {
     [AllowAnonymous]
     public class LoginModel : PageModel
     {
+        private readonly AuthenticationServices _authenticationService;
         private readonly SignInManager<ApplicationUser> _signInManager;
         private readonly ILogger<LoginModel> _logger;
 
-        public LoginModel(SignInManager<ApplicationUser> signInManager, ILogger<LoginModel> logger)
+        public LoginModel(SignInManager<ApplicationUser> signInManager, ILogger<LoginModel> logger, AuthenticationServices authenticationService)
         {
+            _authenticationService = authenticationService;
             _signInManager = signInManager;
             _logger = logger;
         }
@@ -74,11 +77,18 @@ namespace MatrimonialProject.Areas.Identity.Pages.Account
             {
                 // This doesn't count login failures towards account lockout
                 // To enable password failures to trigger account lockout, set lockoutOnFailure: true
-                var result = await _signInManager.PasswordSignInAsync(Input.Email, Input.Password, Input.RememberMe, lockoutOnFailure: true);
+                //var result = await _signInManager.PasswordSignInAsync(Input.Email, Input.Password, Input.RememberMe, lockoutOnFailure: true);
+                Microsoft.AspNetCore.Identity.SignInResult result = await _authenticationService.LogInAsync(_signInManager, Input.Email, Input.Password, Input.RememberMe, lockoutOnFailure: true);
+
                 if (result.Succeeded)
                 {
+                    
+                    //ViewData["JavaScriptFunction"] = "popUp";
                     _logger.LogInformation("User logged in.");
-                    return LocalRedirect(returnUrl);
+
+                    //return LocalRedirect(returnUrl);
+                    //return Redirect("/Views/Index/LoginSuccessful");
+                    return RedirectToAction("LoginSuccessful", "Admin");
                 }
                 if (result.RequiresTwoFactor)
                 {

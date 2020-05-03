@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uOPXOY2X9n0fDoPCbklbReXxKkx8Fb9p4nQ2PNrOBCivg22renDfijENiQdUWvddPlq2WHBjO8DgwP+N2FIpnQ==",
+  "dgSpecHash": "hwhTX7pKtr2LcaqwBddgyiFJxcBukKOlElKBUtxsOkcKbScPB/gSZgGhynHM27ccHP3wNNqnd+zRlEnIxabFbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W10\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W17\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\catal\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\catal\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",

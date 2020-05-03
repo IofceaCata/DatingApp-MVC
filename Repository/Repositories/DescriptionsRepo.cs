@@ -16,9 +16,11 @@ namespace MatrimonialProject.Repositories
         {
             _context = context;
         }
-        public Description GetDescription(string userId)
+        public Description GetDescription(string id)
         {
-            return _context.Description.Find();
+
+            return _context.Description.Single(x => x.UserId == id);
+            
         }
 
         public void Insert(Description description)

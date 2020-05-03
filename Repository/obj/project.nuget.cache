@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qxNJ5FuoswAM/XTmWfPmR4n3VzAxk959W2ZkMYYx+EQu0GVoGdK5Czo+2/+QSJLmoc0uSaSF0X+ALWBQIoC4lw==",
+  "dgSpecHash": "uLQOdFztPhn6HjGxLVTUX8ukU62FM7HApdMVDexE+osV6UrG84aVDxb4KVy7710fFmiocUq0Qxj0JAOJmHkTMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W10\\Repository\\Repository.csproj",
+  "projectFilePath": "C:\\Users\\catal\\OneDrive\\Desktop\\Work\\W17\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\catal\\.nuget\\packages\\entityframework\\6.4.0\\entityframework.6.4.0.nupkg.sha512",
     "C:\\Users\\catal\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\catal\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
     "C:\\Users\\catal\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",

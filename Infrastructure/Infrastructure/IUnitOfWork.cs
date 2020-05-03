@@ -9,6 +9,7 @@ namespace MatrimonialProject.Infrastructure
     {
         IMessage Message { get; }
         IUserRepo UserRepo { get; }
+        IDescription Description { get;}
         void Save();
     }
 }

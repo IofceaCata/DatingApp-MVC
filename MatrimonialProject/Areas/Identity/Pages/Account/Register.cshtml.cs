@@ -12,12 +12,15 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 using Microsoft.AspNetCore.Http;
 using MatrimonialProject.Infrastructure;
+using MatrimonialProject.Repositories;
+using Repository.Services;
 
 namespace MatrimonialProject.Areas.Identity.Pages.Account
 {
     [AllowAnonymous]
     public class RegisterModel : PageModel
     {
+        private readonly AuthenticationServices _registerService;
         private readonly SignInManager<ApplicationUser> _signInManager;
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly ILogger<RegisterModel> _logger;
@@ -25,11 +28,14 @@ namespace MatrimonialProject.Areas.Identity.Pages.Account
         private readonly IProfileImage _profileImage;
 
         public RegisterModel(
+            AuthenticationServices registerService,
             UserManager<ApplicationUser> userManager,
             SignInManager<ApplicationUser> signInManager,
             ILogger<RegisterModel> logger,
-            IEmailSender emailSender , IProfileImage ProfileImage)
+            IEmailSender emailSender , IProfileImage ProfileImage) 
+            
         {
+            _registerService = registerService;
             _userManager = userManager;
             _signInManager = signInManager;
             _logger = logger;
@@ -94,21 +100,26 @@ namespace MatrimonialProject.Areas.Identity.Pages.Account
             if (ModelState.IsValid)
             {
                 _profileImage.UploadImage(file);
-                var user = new ApplicationUser { UserName = Input.Email, Email = Input.Email ,
-                       
-                        Name = Input.Name,
-                        City = Input.City,
-                        BirthDate = Input.BirthDate,
-                        Age = Input.Age,
-                        Caste = Input.Caste,
-                        Gender = Input.Gender,
-                        Occupation = Input.Occupation,
-                        Salary = Input.Salary,
-                        MaritialStatus = Input.MaritialStatus,
-                        Religion = Input.Religion,
-                        ImagePath=file.FileName }; 
+                //ApplicationUser user = _registerService.CreateApplicationUser(file);
+                //
+                //var user = new ApplicationUser { UserName = Input.Email, Email = Input.Email ,
 
-                var result = await _userManager.CreateAsync(user, Input.Password);
+                //        Name = Input.Name,
+                //        City = Input.City,
+                //        BirthDate = Input.BirthDate,
+                //        Age = Input.Age,
+                //        Caste = Input.Caste,
+                //        Gender = Input.Gender,
+                //        Occupation = Input.Occupation,
+                //        Salary = Input.Salary,
+                //        MaritialStatus = Input.MaritialStatus,
+                //        Religion = Input.Religion,
+                //        ImagePath=file.FileName }; 
+
+                //var result = await _userManager.CreateAsync(user, Input.Password);
+                IdentityResult result = await _registerService.CreateApplicationUserAsync(file , _userManager);
+                ApplicationUser user = _registerService.GetUser();
+                //
                 if (result.Succeeded)
                 {
                     _logger.LogInformation("User created a new account with password.");

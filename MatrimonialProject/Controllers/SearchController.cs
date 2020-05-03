@@ -37,9 +37,6 @@ namespace MatrimonialProject.Controllers
         {
 
 
-
-            
-            
             var user = await _userManager.GetUserAsync(User);
 
             if (ModelState.IsValid)

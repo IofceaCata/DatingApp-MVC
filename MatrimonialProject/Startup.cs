@@ -17,6 +17,9 @@ using MatrimonialProject.Infrastructure;
 using MatrimonialProject.Repositories;
 using MatrimonialProject.Models;
 using MatrimonialProject.Automapper;
+using System.Security.Principal;
+using Microsoft.AspNet.Identity;
+using Repository.Services;
 
 namespace MatrimonialProject
 {
@@ -46,11 +49,11 @@ namespace MatrimonialProject
                 .AddDefaultUI(UIFramework.Bootstrap4)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
-
+            services.AddTransient<IDescription, DescriptionsRepo>();
             services.AddTransient<IUnitOfWork, UnitOfWork>();
             services.AddSingleton<IProfileImage, ProfileImageRepo>();
 
-
+            services.AddSingleton<AuthenticationServices>();
             services.AddIdentityCore<ApplicationUser>()
                 .AddRoles<IdentityRole>()
                 .AddClaimsPrincipalFactory<UserClaimsPrincipalFactory<ApplicationUser, IdentityRole>>()

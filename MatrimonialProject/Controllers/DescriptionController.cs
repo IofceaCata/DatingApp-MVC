@@ -2,109 +2,98 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
 using MatrimonialProject.Infrastructure;
 using MatrimonialProject.Models;
 using MatrimonialProject.ViewModels;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
+
 
 namespace MatrimonialProject.Controllers
 {
     public class DescriptionController : Controller
     {
-        /*
+
+        private IMapper _mapper;
+        private int _descriptionId = 3;
         private IDescription _description;
         private readonly UserManager<ApplicationUser> _userManager;
-
-        public DescriptionController(IDescription description, UserManager<ApplicationUser> userManager)
+        private readonly IUnitOfWork _unitOfWork;
+        public DescriptionController(IDescription description, UserManager<ApplicationUser> userManager, IMapper mapper, IUnitOfWork unitOfWork)
         {
             _description = description;
             _userManager = userManager;
-        }*/
+            _mapper = mapper;
+            _unitOfWork = unitOfWork;
+        }
 
-        // GET: Description
-        public ActionResult Index()
+
+
+
+        public ActionResult Create()
         {
+            
             return View();
         }
 
-        // GET: Description/Details/5
-        public ActionResult CreateDescription()
-        {
-            return View();
-        }
-        /*
-        // GET: Description/Create
+        [HttpPost]
         public ActionResult Create(DescriptionViweModel description)
         {
-            string UserId = TempData["userId"].ToString();
-            string senderId = _userManager.GetUserId(User);
-            var mappedDescription = _description;
+            _descriptionId++;
+            string descriptionId = _descriptionId.ToString();
+           
+            string UserId = _userManager.GetUserId(User);
+            var mappedDescription = _mapper.Map<Description>(description);
+            mappedDescription.DescriptionId = descriptionId;
+          
+            mappedDescription.UserId = UserId;
+            
+            _unitOfWork.Description.Insert(mappedDescription);
+            _unitOfWork.Save();
+
+            
             return View();
         }
 
-        // POST: Description/Create
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult ViewMyDescription()
         {
-            try
+            if (User.Identity.IsAuthenticated)
             {
-                // TODO: Add insert logic here
+                var userId = _userManager.GetUserId(User);
+                var description = _unitOfWork.Description.GetDescription(userId);
 
-                return RedirectToAction(nameof(Index));
+                var mappedDescription = _mapper.Map<DescriptionViweModel>(description);
+                return View(mappedDescription);
             }
-            catch
+            else
+            {
+                return View();
+            } 
+        }
+        public ActionResult ViewDescription()
+        {
+            
+           if (User.Identity.IsAuthenticated)
+            {
+                string userId = TempData["recId"].ToString();//_userManager.GetUserId(User);
+                
+                var description = _unitOfWork.Description.GetDescription(userId);
+                
+                var mappedDescription = _mapper.Map<DescriptionViweModel>(description);
+                
+                return View(mappedDescription);
+                
+                
+            }
+            else
             {
                 return View();
             }
         }
 
-        // GET: Description/Edit/5
-        public ActionResult Edit(int id)
-        {
-            return View();
-        }
-
-        // POST: Description/Edit/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
-        {
-            try
-            {
-                // TODO: Add update logic here
-
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
-
-        // GET: Description/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
-        // POST: Description/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
-        {
-            try
-            {
-                // TODO: Add delete logic here
-
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }*/
+        
     }
 }

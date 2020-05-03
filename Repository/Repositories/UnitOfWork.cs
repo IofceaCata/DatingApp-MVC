@@ -12,6 +12,7 @@ namespace MatrimonialProject.Repositories
         private IUserRepo _userRepo;
         private readonly ApplicationDbContext _context;
         private IMessage _message;
+        private IDescription _description;
 
         public IUserRepo UserRepo
         {
@@ -27,6 +28,18 @@ namespace MatrimonialProject.Repositories
                 return _message = _message ?? new MessageRepo(_context);
             }
         }
+
+        
+
+        public IDescription Description 
+        {
+            get
+            {
+                return _description = _description ?? new DescriptionsRepo(_context);
+            }
+        }
+
+        
 
         public UnitOfWork(ApplicationDbContext context)
         {

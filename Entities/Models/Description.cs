@@ -11,6 +11,6 @@ namespace MatrimonialProject.Models
         [Key]
         public string DescriptionId { get; set; }
         public string Content { get; set; }
-        public ApplicationUser UserId { get; set; }
+        public string UserId { get; set; }
     }
 }

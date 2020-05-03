@@ -1,0 +1,15 @@
+﻿@model MatrimonialProject.ViewModels.DescriptionViweModel
+@{
+    ViewData["Title"] = "ViewDescription";
+    TempData["recId"] = ViewContext.RouteData.Values["id"];
+}
+
+<h1>ViewDescription</h1>
+
+@Html.DisplayFor(model => model.Content)
+
+@Html.DisplayFor(model => model.Name)
+
+@section Scripts {
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -22,7 +22,10 @@ namespace MatrimonialProject.Models
         public ICollection<Message> SentMessage { get; set; }
         public ICollection<Message> ReceiveMessage { get; set; }
 
-
+        public static implicit operator ApplicationUser(string v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
 namespace MatrimonialProject
